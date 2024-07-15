@@ -1,0 +1,13 @@
+com/mycompany/designpatterns/strategy_pattern/problem1/Format.class
+com/mycompany/designpatterns/strategy_pattern/problem1/LowerCaseFormat.class
+com/mycompany/designpatterns/strategy_pattern/problem1/UpperCaseFormat.class
+com/mycompany/designpatterns/strategy_pattern/solution/Sorting.class
+com/mycompany/designpatterns/strategy_pattern/problem1/ReacherBook.class
+com/mycompany/designpatterns/strategy_pattern/solution/SortingTypes.class
+com/mycompany/designpatterns/strategy_pattern/problem1/Book.class
+com/mycompany/designpatterns/strategy_pattern/solution/InsertionSortType.class
+com/mycompany/designpatterns/strategy_pattern/problem1/HarryPotterBook.class
+com/mycompany/designpatterns/strategy_pattern/problem/sortingAlgo.class
+com/mycompany/designpatterns/DesignPatterns.class
+com/mycompany/designpatterns/strategy_pattern/solution/SelectionSortType.class
+com/mycompany/designpatterns/strategy_pattern/solution/BubbleSortType.class
