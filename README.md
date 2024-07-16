@@ -1,5 +1,5 @@
 ## strategy Design Pattern
-###main structure : 
+#### main structure : 
 
 ![strategy](https://github.com/user-attachments/assets/3075d39e-2f63-4707-86c4-dee751941880)
 
