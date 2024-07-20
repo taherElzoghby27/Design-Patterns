@@ -64,12 +64,9 @@ public class DesignPatterns {
         newsAgency.setNews("Software Engineer");
         System.out.println("------------------------");
         YoutubeChannel youtubeChannel1 = new YoutubeChannel("Workout");
-        UserObserver u1 = new User1();
-        UserObserver u2 = new User2();
-        UserObserver u3 = new User3();
-        youtubeChannel1.subscribe(u1);
-        youtubeChannel1.subscribe(u2);
-        youtubeChannel1.subscribe(u3);
+        UserObserver u1 = new User1(youtubeChannel1);
+        UserObserver u2 = new User2(youtubeChannel1);
+        UserObserver u3 = new User3(youtubeChannel1);
         Video v0 = new Video("back workout advanced", "Link back", "time back", "primary photo back");
         Video v1 = new Video("chest workout advanced", "Link chest", "time chest", "primary photo chest");
         Video v2 = new Video("leg workout advanced", "Link leg", "time leg", "primary photo leg");

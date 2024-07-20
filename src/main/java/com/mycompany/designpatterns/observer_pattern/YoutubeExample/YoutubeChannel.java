@@ -3,7 +3,7 @@ package com.mycompany.designpatterns.observer_pattern.YoutubeExample;
 import java.util.ArrayList;
 import java.util.List;
 
-public class YoutubeChannel implements ChannelSubject,ObserverDisplay {
+public class YoutubeChannel implements ChannelSubject, ObserverDisplay {
 
     private List<UserObserver> users;
     private Video video;
@@ -28,7 +28,7 @@ public class YoutubeChannel implements ChannelSubject,ObserverDisplay {
     @Override
     public void notifyUsers() {
         for (UserObserver user : users) {
-            user.update(video);
+            user.update();
         }
     }
 
@@ -37,9 +37,13 @@ public class YoutubeChannel implements ChannelSubject,ObserverDisplay {
         notifyUsers();
     }
 
+    public Video getVideo() {
+        return this.video;
+    }
+
     @Override
     public void display() {
-        System.out.println("--\t\tchannel name : "+this.channelName);
+        System.out.println("--\t\tchannel name : " + this.channelName);
     }
 
 }
