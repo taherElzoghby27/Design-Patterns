@@ -80,40 +80,7 @@ structure for problem 2 :
 
 
 ## Observer Design Pattern
-### 🔍 Observer Design Pattern: A Deep Dive<br>
-Ever faced a scenario where you needed to keep multiple objects in sync without tightly coupling them? That's where the Observer Design Pattern comes into play!
-<br>
-### 👀 What is the Observer Design Pattern? 
-At its core, the Observer Design Pattern defines a one-to-many dependency between objects so that when one object (the subject) changes its state, all its dependent objects (observers) are notified and updated automatically. This pattern promotes loose coupling and dynamic relationships between objects.
-### 🌟 Principles of Object-Oriented Design Embodied in This Pattern Include:
-* Encapsulation of the subject's state changes.
-* Promoting composition over inheritance.
-* Designing to interfaces, not concrete implementations.
-* Strive for loosely coupled designs between objects that interact.
-### 🛠️ Key Components in the Observer Pattern:
-* SUBJECT: The central class that maintains a list of observers and provides methods to add, remove, and notify observers.
-* OBSERVER INTERFACE: Shared across all concrete observers, declaring an "update" method for the subject to call.
-* CONCRETE OBSERVERS: Different implementations that receive updates from the subject.
-* CLIENTS: The classes or code entities that use the pattern.<br>
-### 🛠️ How Does It Work?<br>
-The Observer Design Pattern establishing a one-to-many dependency between objects, ensuring that when the state of one object (the subject) changes, all its dependent objects (observers) are notified and updated automatically.
-#### -Subject and Observers:<br>
-   𝐒𝐮𝐛𝐣𝐞𝐜𝐭: This is the object that holds the state and maintains a list of its dependents, called observers.<br>
-   𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫𝐬: These are objects that need to be notified when the state of the subject changes.<br>
-#### -Interfaces and Implementations:<br>
-   𝐒𝐮𝐛𝐣𝐞𝐜𝐭 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞: Typically includes methods for adding and removing observers, as well as a method for notifying observers.<br>
-   𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞: Defines a method for updating, which concrete observers must implement.<br>
--𝐀𝐭𝐭𝐚𝐜𝐡𝐢𝐧𝐠 𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫𝐬: Observers register themselves with the subject, indicating that they want to receive updates.<br>
--𝐒𝐭𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐠𝐞: When the state of the subject changes, it iterates through its list of attached observers and calls their update method.<br>
--𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫 𝐔𝐩𝐝𝐚𝐭𝐞: Each observer receives the update notification and can then pull or receive the necessary data from the subject to update its own state.<br>
--𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠: The subject and observers are decoupled, meaning they can vary independently. The subject does not need to know the specifics of its observers, only that they implement the update method.<br>
-### 🌿 Implementing the Observer Design Pattern:
-* Identify the subject and the observers.
-* Define an Observer Interface representing the update behavior.
-* Implement concrete observer classes with specific update variations.
-* Create a subject class to manage and notify observers.
-* Enable dynamic adding and removing of observers at runtime.
-Dive deeper into design patterns and enhance your software engineering toolbox with the adaptable Observer Design Pattern!
+### medium : https://medium.com/@tataamen678/observer-design-pattern-26fc75d1e11c
 
 ### structure
 
