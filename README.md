@@ -75,3 +75,8 @@ structure for problem 1 :
 structure for problem 2 :
 
 ![duck](https://github.com/user-attachments/assets/a71e5d20-376b-448a-92e8-eaafba756305)
+
+
+
+
+## Observer Design Pattern
