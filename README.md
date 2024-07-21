@@ -97,11 +97,11 @@ At its core, the Observer Design Pattern defines a one-to-many dependency betwee
 * CLIENTS: The classes or code entities that use the pattern.<br>
 ### 🛠️ How Does It Work?<br>
 The Observer Design Pattern establishing a one-to-many dependency between objects, ensuring that when the state of one object (the subject) changes, all its dependent objects (observers) are notified and updated automatically.
-#### -Subject and Observers:
-   𝐒𝐮𝐛𝐣𝐞𝐜𝐭: This is the object that holds the state and maintains a list of its dependents, called observers.
-   𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫𝐬: These are objects that need to be notified when the state of the subject changes.
-#### -Interfaces and Implementations:
-   𝐒𝐮𝐛𝐣𝐞𝐜𝐭 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞: Typically includes methods for adding and removing observers, as well as a method for notifying observers.
+#### -Subject and Observers:<br>
+   𝐒𝐮𝐛𝐣𝐞𝐜𝐭: This is the object that holds the state and maintains a list of its dependents, called observers.<br>
+   𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫𝐬: These are objects that need to be notified when the state of the subject changes.<br>
+#### -Interfaces and Implementations:<br>
+   𝐒𝐮𝐛𝐣𝐞𝐜𝐭 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞: Typically includes methods for adding and removing observers, as well as a method for notifying observers.<br>
    𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞: Defines a method for updating, which concrete observers must implement.<br>
 -𝐀𝐭𝐭𝐚𝐜𝐡𝐢𝐧𝐠 𝐎𝐛𝐬𝐞𝐫𝐯𝐞𝐫𝐬: Observers register themselves with the subject, indicating that they want to receive updates.<br>
 -𝐒𝐭𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐠𝐞: When the state of the subject changes, it iterates through its list of attached observers and calls their update method.<br>
