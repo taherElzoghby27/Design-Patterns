@@ -75,3 +75,14 @@ structure for problem 1 :
 structure for problem 2 :
 
 ![duck](https://github.com/user-attachments/assets/a71e5d20-376b-448a-92e8-eaafba756305)
+
+
+
+
+## Observer Design Pattern
+### medium : https://medium.com/@tataamen678/observer-design-pattern-26fc75d1e11c
+
+### structure
+
+![observer](https://github.com/user-attachments/assets/f2777817-50d3-4920-b871-9a0a4fd3056b)
+
