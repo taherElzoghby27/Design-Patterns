@@ -1,5 +1,14 @@
 package com.mycompany.designpatterns;
 
+import com.mycompany.designpatterns.decorator_pattern.coffee_ex.Beverage;
+import com.mycompany.designpatterns.decorator_pattern.coffee_ex.CondimentDecorator;
+import com.mycompany.designpatterns.decorator_pattern.coffee_ex.DarkRoast;
+import com.mycompany.designpatterns.decorator_pattern.coffee_ex.Milk;
+import com.mycompany.designpatterns.decorator_pattern.coffee_ex.Mocha;
+import com.mycompany.designpatterns.decorator_pattern.data_source_examble.CompressionDecorator;
+import com.mycompany.designpatterns.decorator_pattern.data_source_examble.DataSource;
+import com.mycompany.designpatterns.decorator_pattern.data_source_examble.EncryptionDecorator;
+import com.mycompany.designpatterns.decorator_pattern.data_source_examble.FileDataSource;
 import com.mycompany.designpatterns.observer_pattern.Ex1.Observer;
 import com.mycompany.designpatterns.observer_pattern.Ex1.PhoneDisplay;
 import com.mycompany.designpatterns.observer_pattern.Ex1.TvDisplay;
@@ -76,6 +85,25 @@ public class DesignPatterns {
         youtubeChannel1.setVideo(v2);
 
         YoutubeChannel youtubeChannel2 = new YoutubeChannel("Programming");
+        System.out.println("--------------------------");
+        Beverage darkRoast = new DarkRoast();
+        System.out.println(darkRoast.getDescribtion() + " " + darkRoast.cost());
+        darkRoast = new Mocha(darkRoast);
+        darkRoast = new Milk(darkRoast);
+        darkRoast = new Mocha(darkRoast);
+        System.out.println(darkRoast.getDescribtion() + " " + darkRoast.cost());
+        System.out.println("---------------------------");
+        DataSource dataSource=new FileDataSource("taher amin taher elzoghy");
+        System.out.println(dataSource.readData());
+        dataSource=new EncryptionDecorator(dataSource);
+        System.out.println(dataSource.readData());
+        dataSource=new CompressionDecorator(dataSource);
+        System.out.println(dataSource.readData());
+        dataSource=new EncryptionDecorator(dataSource);
+        dataSource.writeData("welcome");
+        dataSource=new CompressionDecorator(dataSource);
+        System.out.println(dataSource.readData());
+        
 
     }
 }
