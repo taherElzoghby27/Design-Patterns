@@ -23,3 +23,11 @@ structure for problem 2 :
 
 ![observer](https://github.com/user-attachments/assets/f2777817-50d3-4920-b871-9a0a4fd3056b)
 
+
+## Decorator Design Pattern
+
+### structure
+
+![Screenshot 2024-07-27 at 4 31 29 PM](https://github.com/user-attachments/assets/ebe7c58c-a3ec-4367-965c-d27669867366)
+
+
