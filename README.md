@@ -21,13 +21,14 @@ structure for problem 2 :
 
 ### structure
 
-![observer](https://github.com/user-attachments/assets/f2777817-50d3-4920-b871-9a0a4fd3056b)
+
+![Screenshot 2024-07-27 at 4 43 47 PM](https://github.com/user-attachments/assets/911134d9-1d94-46af-ab07-5d1a3624334c)
+
+
 
 
 ## Decorator Design Pattern
 
 ### structure
 
-![Screenshot 2024-07-27 at 4 31 29 PM](https://github.com/user-attachments/assets/ebe7c58c-a3ec-4367-965c-d27669867366)
-
-
+![Screenshot 2024-07-27 at 4 39 15 PM](https://github.com/user-attachments/assets/38aea807-557f-47c6-b7b1-8b2ed4dd2f86)
