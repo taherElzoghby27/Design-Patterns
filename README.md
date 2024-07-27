@@ -18,7 +18,6 @@ structure for problem 2 :
 
 
 ## Observer Design Pattern
-### medium : https://medium.com/@tataamen678/observer-design-pattern-26fc75d1e11c
 
 ### structure
 
