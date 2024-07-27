@@ -15,6 +15,7 @@ com/mycompany/designpatterns/observer_pattern/Ex1/Observer.class
 com/mycompany/designpatterns/observer_pattern/Ex1/PhoneDisplay.class
 com/mycompany/designpatterns/observer_pattern/Ex1/WorkStation.class
 com/mycompany/designpatterns/decorator_pattern/data_source_examble/CompressionDecorator.class
+com/mycompany/designpatterns/decorator_pattern/coffee_ex/Mango.class
 com/mycompany/designpatterns/decorator_pattern/coffee_ex/DarkRoast.class
 com/mycompany/designpatterns/decorator_pattern/data_source_examble/FileDataSource.class
 com/mycompany/designpatterns/observer_pattern/news_agency_examble/NewsAgency.class

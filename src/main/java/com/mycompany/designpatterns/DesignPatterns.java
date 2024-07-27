@@ -3,6 +3,7 @@ package com.mycompany.designpatterns;
 import com.mycompany.designpatterns.decorator_pattern.coffee_ex.Beverage;
 import com.mycompany.designpatterns.decorator_pattern.coffee_ex.CondimentDecorator;
 import com.mycompany.designpatterns.decorator_pattern.coffee_ex.DarkRoast;
+import com.mycompany.designpatterns.decorator_pattern.coffee_ex.Mango;
 import com.mycompany.designpatterns.decorator_pattern.coffee_ex.Milk;
 import com.mycompany.designpatterns.decorator_pattern.coffee_ex.Mocha;
 import com.mycompany.designpatterns.decorator_pattern.data_source_examble.CompressionDecorator;
@@ -92,6 +93,10 @@ public class DesignPatterns {
         darkRoast = new Milk(darkRoast);
         darkRoast = new Mocha(darkRoast);
         System.out.println(darkRoast.getDescribtion() + " " + darkRoast.cost());
+        Beverage mango=new Mango();
+        System.out.println(mango.getDescribtion()+" "+mango.cost());
+        mango=new Milk(mango);
+        System.out.println(mango.getDescribtion()+" "+mango.cost());
         System.out.println("---------------------------");
         DataSource dataSource=new FileDataSource("taher amin taher elzoghy");
         System.out.println(dataSource.readData());
