@@ -1,5 +1,9 @@
 package com.mycompany.designpatterns;
 
+import com.mycompany.designpatterns.decorator_pattern.car.BMW;
+import com.mycompany.designpatterns.decorator_pattern.car.CarModel;
+import com.mycompany.designpatterns.decorator_pattern.car.NavigationSystem;
+import com.mycompany.designpatterns.decorator_pattern.car.SunRoof;
 import com.mycompany.designpatterns.decorator_pattern.coffee_ex.Beverage;
 import com.mycompany.designpatterns.decorator_pattern.coffee_ex.CondimentDecorator;
 import com.mycompany.designpatterns.decorator_pattern.coffee_ex.DarkRoast;
@@ -108,6 +112,13 @@ public class DesignPatterns {
         dataSource.writeData("welcome");
         dataSource=new CompressionDecorator(dataSource);
         System.out.println(dataSource.readData());
+        System.out.println("----000----------000-------");
+        CarModel bm=new BMW();
+        System.out.println(bm.desc()+" "+bm.cost());
+        bm=new NavigationSystem(bm);
+        System.out.println(bm.desc()+" "+bm.cost());
+        bm=new SunRoof(bm);
+        System.out.println(bm.desc()+" "+bm.cost());
         
 
     }

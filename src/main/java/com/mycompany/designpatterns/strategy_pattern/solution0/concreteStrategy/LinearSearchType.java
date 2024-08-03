@@ -1,13 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.designpatterns.strategy_pattern.solution0.concreteStrategy;
-
-/**
- *
- * @author taheramintaherelzoghby
- */
+import com.mycompany.designpatterns.strategy_pattern.solution0.strategyInterface.SearchingTypes;
 public class LinearSearchType implements SearchingTypes{
-    
+
+    @Override
+    public void search(int[] array) {
+        System.out.println("linear search");
+    }
 }

@@ -1,13 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.mycompany.designpatterns.strategy_pattern.solution0.concreteStrategy;
+import com.mycompany.designpatterns.strategy_pattern.solution0.strategyInterface.SearchingTypes;
+public class BinarySearchType implements SearchingTypes{
 
-/**
- *
- * @author taheramintaherelzoghby
- */
-public class BinarySearchType {
+    @Override
+    public void search(int[] array) {
+        System.out.println("binary saerch");
+    }
     
 }
