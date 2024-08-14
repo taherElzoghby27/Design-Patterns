@@ -32,3 +32,9 @@ structure for problem 2 :
 ### structure
 
 ![Screenshot 2024-07-27 at 4 39 15 PM](https://github.com/user-attachments/assets/38aea807-557f-47c6-b7b1-8b2ed4dd2f86)
+
+## Factory Method & Abstract Factory Design Pattern
+
+### structure
+
+![abstract factory drawio](https://github.com/user-attachments/assets/1ae821ec-27b2-4414-a430-873f38e5b14a)
