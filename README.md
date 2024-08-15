@@ -36,5 +36,10 @@ structure for problem 2 :
 ## Factory Method & Abstract Factory Design Pattern
 
 ### structure
-
+#### ex1
 ![abstract factory drawio](https://github.com/user-attachments/assets/1ae821ec-27b2-4414-a430-873f38e5b14a)
+
+#### ex2
+
+![ex_furniture_abstract_factory drawio](https://github.com/user-attachments/assets/182c8404-5608-47eb-8787-ae3c61833d85)
+ 
