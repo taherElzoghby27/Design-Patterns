@@ -27,6 +27,8 @@ com\mycompany\designpatterns\factory\factory_method\pizza_example\product\Pizza.
 com\mycompany\designpatterns\decorator_pattern\coffee_ex\Mango.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\cheese\ReggianoCheese.class
 com\mycompany\designpatterns\factory\factory_method\logistics_example\creator\TransportLogistics.class
+com\mycompany\designpatterns\singleton\Singleton$Loader.class
+com\mycompany\designpatterns\singleton\Singleton.class
 com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Transport.class
 com\mycompany\designpatterns\factory\abstract_factory\gui\MacCheckBox.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\clam\Clam.class
@@ -45,6 +47,7 @@ com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\cla
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\test.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\Creator\NYPizzaStore.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\dough\DoughPizza.class
+com\mycompany\designpatterns\singleton\ChocolateBoiler.class
 com\mycompany\designpatterns\observer_pattern\news_agency_examble\Subject.class
 com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Boat.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\product\NYStyleClamPizza.class
@@ -86,3 +89,4 @@ com\mycompany\designpatterns\decorator_pattern\coffee_ex\Mocha.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\Creator\ChicagoPizzaStore.class
 com\mycompany\designpatterns\decorator_pattern\data_source_examble\DataSourceDecorator.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\clam\FreshClam.class
+com\mycompany\designpatterns\singleton\Test.class

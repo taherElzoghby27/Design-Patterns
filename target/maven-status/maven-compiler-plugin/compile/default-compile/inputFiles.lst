@@ -1,4 +1,5 @@
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\car\BMW.java
+D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\singleton\Singleton.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\gui\CheckBox.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\problem2\RubberDuck.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution0\concreteStrategy\SelectionSortType.java
@@ -13,6 +14,7 @@ D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\o
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\problem2\MallardDuck.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\gui\WindowsButton.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Ship.java
+D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\singleton\ChocolateBoiler.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\problem2\RedHeadDuck.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\gui\MacFactory.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\pizza_example\product\Pizza.java
@@ -22,6 +24,7 @@ D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\o
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\YoutubeExample\Video.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\data_source_examble\DataSourceDecorator.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\YoutubeExample\ChannelSubject.java
+D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\singleton\Test.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\problem0\sortingAlgo.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution0\strategyInterface\SearchingTypes.java
 D:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\dough\ThinCrustDough.java
