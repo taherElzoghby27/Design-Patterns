@@ -1,4 +1,6 @@
-package com.mycompany.designpatterns.command_pattern.snake_game;
+package com.mycompany.designpatterns.command_pattern.snake_game.invoker;
+
+import com.mycompany.designpatterns.command_pattern.snake_game.command.Command;
 
 public class Player {
 

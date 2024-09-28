@@ -1,4 +1,4 @@
-package com.mycompany.designpatterns.command_pattern.snake_game;
+package com.mycompany.designpatterns.command_pattern.snake_game.command;
 
 public interface Command {
 

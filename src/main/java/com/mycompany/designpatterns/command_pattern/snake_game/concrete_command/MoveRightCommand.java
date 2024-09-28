@@ -1,4 +1,7 @@
-package com.mycompany.designpatterns.command_pattern.snake_game;
+package com.mycompany.designpatterns.command_pattern.snake_game.concrete_command;
+
+import com.mycompany.designpatterns.command_pattern.snake_game.receiver.Snake;
+import com.mycompany.designpatterns.command_pattern.snake_game.command.Command;
 
 public class MoveRightCommand implements Command {
 

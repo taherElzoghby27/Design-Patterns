@@ -1,4 +1,4 @@
-package com.mycompany.designpatterns.command_pattern.snake_game;
+package com.mycompany.designpatterns.command_pattern.snake_game.receiver;
 
 public class Snake {
 
