@@ -7,17 +7,22 @@ E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\s
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\news_agency_examble\BBCChannel.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\gui\MacButton.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\YoutubeExample\User1.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\concrete_commands\PickupCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution0\concreteStrategy\InsertionSortType.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\NYPizzaIngredientFactory.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\pizza_example\Creator\NYPizzaStore.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\concrete_commands\MoveRightCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution1\concreteStrategy\LowerCaseFormat.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\invoker\MacroCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\PizzaStore.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\pizza_example\product\ChicagoStyleCheesePizza.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\receiver\Light.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\YoutubeExample\User3.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\car\SunRoof.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\client.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\Ex1\TvDisplay.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\problem1\book.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\invoker\RobotControlSystem.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\coffee_ex\Beverage.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\dough\Dough.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution1\client\HarryPotterBook.java
@@ -35,6 +40,7 @@ E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\f
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\invoker\RemoteApiService.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\logistics_example\creator\TransportLogistics.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution1\concreteStrategy\UpperCaseFormat.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\receiver\Robot.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\news_agency_examble\Channel.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\Pizza.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\logistics_example\creator\SeaLogistic.java
@@ -51,6 +57,7 @@ E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\D
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\singleton\Singleton.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\commands\PcOnCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\sauce\SaucePizza.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\concrete_commands\SpeakCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\dough\ThickCrustDough.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\car\CarModel.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution1\strategyInterface\Format.java
@@ -60,6 +67,7 @@ E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\s
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\gui\WindowsCheckBox.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Truck.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\Ex1\Observer.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\commands\Command.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\commands\TvOnCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\observer_pattern\news_agency_examble\NewsAgency.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\data_source_examble\CompressionDecorator.java
@@ -82,6 +90,8 @@ E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\f
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\test.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\ChicagoPizzaIngredientFactory.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\commands\Command.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\concrete_commands\MoveBottomCommand.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\concrete_commands\NoCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\clam\ClamPizza.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\data_source_examble\DataSourceDecorator.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\pizza_example\Creator\PizzaStore.java
@@ -107,6 +117,7 @@ E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\o
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\coffee_ex\Milk.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution0\context\Sorting.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\clam\Clam.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\concrete_commands\MoveTopCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\strategy_pattern\solution2\strategyInterface\QuackableBehavior.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\commands\PcOffCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\commands\LightOnCommand.java
@@ -116,6 +127,7 @@ E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\c
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\factory_method\pizza_example\Creator\ChicagoPizzaStore.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\NYPizzaStore.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\receiver\Tv.java
+E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\robot\concrete_commands\MoveLeftCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\clam\FrozenClams.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\command_pattern\book_ex\commands\LightOffCommand.java
 E:\NetBeansProjects\Design-Patterns\src\main\java\com\mycompany\designpatterns\decorator_pattern\data_source_examble\EncryptionDecorator.java
