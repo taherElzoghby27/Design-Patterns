@@ -1,6 +1,8 @@
-package com.mycompany.designpatterns.command_pattern.book_ex;
+package com.mycompany.designpatterns.command_pattern.book_ex.commands;
 
-public class LightOffCommand extends Command {
+import com.mycompany.designpatterns.command_pattern.book_ex.receiver.Light;
+
+public class LightOffCommand implements Command {
 
     protected Light light;
 

@@ -57,7 +57,7 @@ public class Snake {
     }
 
     public void moveBottom() {
-        if (x == this.board.length-1) {
+        if (x == this.board.length - 1) {
             System.out.println("Not Available");
         } else {
             if (this.board[x][y] != 0) {
@@ -89,5 +89,6 @@ public class Snake {
                 this.board[x][y] = 0;
             }
         }
+        this.board[0][0] = 1;
     }
 }

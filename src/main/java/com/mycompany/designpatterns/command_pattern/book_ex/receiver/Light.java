@@ -1,4 +1,4 @@
-package com.mycompany.designpatterns.command_pattern.book_ex;
+package com.mycompany.designpatterns.command_pattern.book_ex.receiver;
 
 public class Light {
 
