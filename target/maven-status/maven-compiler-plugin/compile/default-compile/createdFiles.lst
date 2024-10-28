@@ -11,6 +11,8 @@ com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\Chic
 com\mycompany\designpatterns\factory\factory_method\pizza_example\product\ChicagoStyleCheesePizza.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\sauce\PlumTomatoSauce.class
 com\mycompany\designpatterns\observer_pattern\YoutubeExample\UserObserver.class
+com\mycompany\designpatterns\adapter_pattern\file_format_ex\adaptee\DartLanguage.class
+com\mycompany\designpatterns\adapter_pattern\printer_ex\object_adapter\adapter\AdapterPrinter.class
 com\mycompany\designpatterns\decorator_pattern\car\CarDecorator.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\Pizza.class
 com\mycompany\designpatterns\observer_pattern\YoutubeExample\User2.class
@@ -24,11 +26,13 @@ com\mycompany\designpatterns\command_pattern\snake_game\concrete_command\MoveRig
 com\mycompany\designpatterns\observer_pattern\Ex1\PhoneDisplay.class
 com\mycompany\designpatterns\command_pattern\snake_game\concrete_command\MoveTopCommand.class
 com\mycompany\designpatterns\command_pattern\book_ex\receiver\Pc.class
+com\mycompany\designpatterns\adapter_pattern\printer_ex\object_adapter\target\LegacyPrinter.class
 com\mycompany\designpatterns\factory\abstract_factory\gui\WindowsButton.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\cheese\MozzarellaCheese.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\Creator\PizzaStore.class
 com\mycompany\designpatterns\observer_pattern\YoutubeExample\ChannelSubject.class
 com\mycompany\designpatterns\command_pattern\book_ex\commands\LightOffCommand.class
+com\mycompany\designpatterns\templete_method_pattern\client.class
 com\mycompany\designpatterns\observer_pattern\YoutubeExample\User1.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\product\Pizza.class
 com\mycompany\designpatterns\decorator_pattern\coffee_ex\Mango.class
@@ -39,7 +43,9 @@ com\mycompany\designpatterns\command_pattern\book_ex\commands\PcOffCommand.class
 com\mycompany\designpatterns\singleton\Singleton$Loader.class
 com\mycompany\designpatterns\singleton\Singleton.class
 com\mycompany\designpatterns\command_pattern\snake_game\ClientTest.class
+com\mycompany\designpatterns\adapter_pattern\printer_ex\object_adapter\adaptee\NormalPrinter.class
 com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Transport.class
+com\mycompany\designpatterns\adapter_pattern\file_format_ex\targett\Format.class
 com\mycompany\designpatterns\factory\abstract_factory\gui\MacCheckBox.class
 com\mycompany\designpatterns\command_pattern\book_ex\commands\Command.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\clam\Clam.class
@@ -48,6 +54,7 @@ com\mycompany\designpatterns\strategy_pattern\problem1\book.class
 com\mycompany\designpatterns\command_pattern\robot\concrete_commands\NoCommand.class
 com\mycompany\designpatterns\observer_pattern\YoutubeExample\YoutubeChannel.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\NYPizzaIngredientFactory.class
+com\mycompany\designpatterns\adapter_pattern\file_format_ex\adaptee\JavaLanguage.class
 com\mycompany\designpatterns\command_pattern\book_ex\commands\MacroCommand.class
 com\mycompany\designpatterns\command_pattern\robot\concrete_commands\SpeakCommand.class
 com\mycompany\designpatterns\observer_pattern\news_agency_examble\BBCChannel.class
@@ -71,6 +78,7 @@ com\mycompany\designpatterns\command_pattern\robot\concrete_commands\MoveTopComm
 com\mycompany\designpatterns\command_pattern\book_ex\receiver\Tv.class
 com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Boat.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\product\NYStyleClamPizza.class
+com\mycompany\designpatterns\adapter_pattern\printer_ex\object_adapter\adaptee\Printer.class
 com\mycompany\designpatterns\observer_pattern\Ex1\Observer.class
 com\mycompany\designpatterns\command_pattern\robot\invoker\MacroCommand.class
 com\mycompany\designpatterns\factory\abstract_factory\gui\CheckBox.class
@@ -89,10 +97,12 @@ com\mycompany\designpatterns\command_pattern\robot\concrete_commands\PickupComma
 com\mycompany\designpatterns\factory\factory_method\logistics_example\creator\RoadLogis.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\ChicagoPizzaStore.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\test_factory.class
+com\mycompany\designpatterns\templete_method_pattern\concrete_classs\DocDataMiner.class
 com\mycompany\designpatterns\command_pattern\book_ex\commands\TvOnCommand.class
 com\mycompany\designpatterns\observer_pattern\YoutubeExample\ObserverDisplay.class
 com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Truck.class
 com\mycompany\designpatterns\observer_pattern\YoutubeExample\Video.class
+com\mycompany\designpatterns\adapter_pattern\file_format_ex\adapter\AdapterFormat.class
 com\mycompany\designpatterns\command_pattern\robot\invoker\RobotControlSystem.class
 com\mycompany\designpatterns\decorator_pattern\coffee_ex\Milk.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\product\ChicagoStyleClamPizza.class
@@ -100,12 +110,18 @@ com\mycompany\designpatterns\command_pattern\book_ex\commands\PcOnCommand.class
 com\mycompany\designpatterns\factory\abstract_factory\gui\MacFactory.class
 com\mycompany\designpatterns\command_pattern\robot\client.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\product\NYStyleCheesePizza.class
+com\mycompany\designpatterns\adapter_pattern\file_format_ex\client.class
+com\mycompany\designpatterns\adapter_pattern\file_format_ex\targett\JsonFormat.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\sauce\Sauce.class
 com\mycompany\designpatterns\command_pattern\book_ex\client_test.class
 com\mycompany\designpatterns\factory\abstract_factory\gui\WindowsCheckBox.class
+com\mycompany\designpatterns\adapter_pattern\printer_ex\Client.class
+com\mycompany\designpatterns\templete_method_pattern\concrete_classs\PdfDataMiner.class
 com\mycompany\designpatterns\decorator_pattern\coffee_ex\CondimentDecorator.class
 com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Ship.class
+com\mycompany\designpatterns\templete_method_pattern\abstract_class\DataMiner.class
 com\mycompany\designpatterns\command_pattern\snake_game\invoker\Player.class
+com\mycompany\designpatterns\templete_method_pattern\concrete_classs\CsvDataMiner.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\NYPizzaStore.class
 com\mycompany\designpatterns\decorator_pattern\data_source_examble\FileDataSource.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\creator\PizzaIngredientFactory.class
@@ -113,6 +129,7 @@ com\mycompany\designpatterns\command_pattern\book_ex\commands\NoCommand.class
 com\mycompany\designpatterns\observer_pattern\Ex1\WorkStation.class
 com\mycompany\designpatterns\decorator_pattern\data_source_examble\DataSource.class
 com\mycompany\designpatterns\command_pattern\robot\concrete_commands\MoveLeftCommand.class
+com\mycompany\designpatterns\adapter_pattern\file_format_ex\adaptee\ProgrammingLanguage.class
 com\mycompany\designpatterns\factory\abstract_factory\gui\Button.class
 com\mycompany\designpatterns\factory\factory_method\logistics_example\product\Car.class
 com\mycompany\designpatterns\observer_pattern\news_agency_examble\NewsAgency.class
@@ -121,6 +138,7 @@ com\mycompany\designpatterns\observer_pattern\YoutubeExample\User3.class
 com\mycompany\designpatterns\decorator_pattern\coffee_ex\Mocha.class
 com\mycompany\designpatterns\factory\factory_method\pizza_example\Creator\ChicagoPizzaStore.class
 com\mycompany\designpatterns\decorator_pattern\data_source_examble\DataSourceDecorator.class
+com\mycompany\designpatterns\adapter_pattern\file_format_ex\targett\XmlFormat.class
 com\mycompany\designpatterns\command_pattern\robot\concrete_commands\MoveRightCommand.class
 com\mycompany\designpatterns\factory\abstract_factory\pizza_example\products\clam\FreshClam.class
 com\mycompany\designpatterns\singleton\Test.class
